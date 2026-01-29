@@ -6,13 +6,13 @@
 - Dataset: https://huggingface.co/datasets/nguyenvulebinh/ViCocktail
 
 ```
-@misc{nguyen2025vicocktailautomatedmultimodaldata,
-      title={ViCocktail: Automated Multi-Modal Data Collection for Vietnamese Audio-Visual Speech Recognition}, 
-      author={Thai-Binh Nguyen and Thi Van Nguyen and Quoc Truong Do and Chi Mai Luong},
-      year={2025},
-      eprint={2506.04635},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2506.04635}, 
+@inproceedings{nguyen25d_interspeech,
+  title     = {{ViCocktail: Automated Multi-Modal Data Collection for Vietnamese Audio-Visual Speech Recognition}},
+  author    = {Thai-Binh Nguyen and Thi Van Nguyen and Quoc Truong Do and Chi Mai Luong},
+  year      = {2025},
+  booktitle = {{Interspeech 2025}},
+  pages     = {166--170},
+  doi       = {10.21437/Interspeech.2025-1559},
+  issn      = {2958-1796},
 }
 ```
